@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kristinnorwig
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning with help from github.com/coding-bootcamps-eu
+- 👋 Hi there, I’m @kristinnorwig
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning at Coding Bootcamps Europe
 
 

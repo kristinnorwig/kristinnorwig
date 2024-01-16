@@ -3,5 +3,5 @@
 
 🌱 I’m currently learning at [Coding Bootcamps Europe](https://github.com/coding-bootcamps-eu)
 
-:octocat: I'm looking forward to support the very best [Team](https://www.ossa-partner.de/team-1) as frontend web developer – and (as before) designer
+:octocat: Working at [Ossa Unternehmenskommunikation](https://www.ossa-partner.de) 
 
